@@ -1,2 +1,4 @@
+I built this webpage before I learned how to use Git so I uploaded the whole complete files at once without any commits.
+
 # omnifood
-I built this webpage before I learned how to use Git so I uploaded the whole complete files at once without any commits.  # omnifood Practiced CSS,  responsive web design, animation, media query, resizing and compressing images. 
+Practiced CSS,  responsive web design, animation, media query, resizing and compressing images. 
